@@ -3,7 +3,7 @@ package comparedate;
 import java.text.*;
 import java.util.*;
 
-public class Validate {
+public class GetInput {
           
     //date format
     static SimpleDateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
