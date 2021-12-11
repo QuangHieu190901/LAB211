@@ -3,7 +3,7 @@ package comparedate;
 import java.text.*;
 import java.util.*;
 
-public class compare2Dates {
+public class Main {
     //compare 2 dates
     public static void compareAndDisplay(Date date1, Date date2){
         //date 1 is before date 2
